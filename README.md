@@ -1,2 +1,2 @@
 # wordsearch-solver
-Solves inputted wordsearch by user, horizontal, vertical, and diagnol.
+Solves inputted word search by user, horizontal, vertical, and diagonal.
